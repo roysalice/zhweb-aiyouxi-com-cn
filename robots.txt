@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roysalice.github.io/zhweb-aiyouxi-com-cn/sitemap.xml
